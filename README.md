@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 - 📚 Diving deep into **NLP, Neural Networks & MLOps**
 - ⚡ Fun fact: I think in tensors 😄
 
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ## 🚀 What I'm Currently Working On
 
 - 🔍 Understanding **Attention Mechanisms & Transformer architecture**
