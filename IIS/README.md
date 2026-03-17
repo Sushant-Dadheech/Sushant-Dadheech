@@ -13,10 +13,11 @@ Each practical explores core AI algorithms implemented in Python.
 
 ## 🧪 Practicals Index
 
-| # | Topic | Algorithms Used | Status |
-|---|-------|----------------|--------|
-| 1 | Travelling Salesman Problem | BFS, DFS, A* | ✅ Done |
-| 2 | Coming Soon... | - | 🔄 Upcoming |
+| # | Practical | Algorithms Used | File | Status |
+|---|-----------|----------------|------|--------|
+| 1 | Travelling Salesman Problem | BFS, DFS, A* | [View Code](./TSP%20Algorithms) | ✅ Done |
+| 2 | Heuristic Search Algorithms | Simulated Annealing, Genetic Algorithm | [View Code](./Practical_2_Heuristic) | ✅ Done |
+| 3 | Coming Soon | - | - | 🔄 Upcoming |
 
 ---
 
