@@ -52,6 +52,7 @@
 |---------|-------------|------|
 | 🧭 [TSP Algorithms](./IIS/TSP%20Algorithms) | BFS, DFS & A* to solve Travelling Salesman Problem | Python |
 | 🔍 [Heuristic Search](./IIS/Practical_2_Heuristic) | Simulated Annealing & Genetic Algorithm | Python |
+| 3 | ML Models Implementation | Supervised & Unsupervised Learning | [View Code](./ml_algorithms.py) | ✅ Done |
 | 🔄 More coming soon... | Automation & AI projects | n8n, Python |
 
 ---
