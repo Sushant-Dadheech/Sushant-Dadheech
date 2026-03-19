@@ -48,12 +48,10 @@
 
 ## 📂 My Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🧭 [TSP Algorithms](./IIS/TSP%20Algorithms) | BFS, DFS & A* to solve Travelling Salesman Problem | Python |
-| 🔍 [Heuristic Search](./IIS/Practical_2_Heuristic) | Simulated Annealing & Genetic Algorithm | Python |
-| 3 | ML Models Implementation | Supervised & Unsupervised Learning | [View Code](./ml_algorithms.py) | ✅ Done |
-| 🔄 More coming soon... | Automation & AI projects | n8n, Python |
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| 💬 Sentiment Analysis Dashboard | Analyze and visualize text sentiment in real-time | Python, NLP | [View](https://github.com/Sushant-Dadheech/Sentiment-Analysis-Dashboard) |
+| 🔄 More coming soon... | Automation & AI workflows | n8n, Antigravity | - |
 
 ---
 
