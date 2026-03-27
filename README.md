@@ -138,7 +138,4 @@
 
 > *"The best way to learn AI is to build with it."* 🤖✨
 
-![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-![Powered by AI](https://img.shields.io/badge/Powered%20by-AI-blueviolet?style=for-the-badge)
-
 </div>
