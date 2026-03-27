@@ -57,8 +57,10 @@
 
 ## 📊 GitHub Stats
 
-![Sushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushant-Dadheech&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Dadheech&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sushant-Dadheech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Sushant's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Dadheech&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html,css" height="165" alt="Top Languages" />
+</div>
 
 ---
 
